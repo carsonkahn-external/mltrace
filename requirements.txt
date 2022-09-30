@@ -8,7 +8,7 @@ greenlet==1.0.0
 iniconfig==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.11.3
-joblib==1.0.1
+joblib==1.2.0
 MarkupSafe==1.1.1
 packaging==20.9
 pluggy==0.13.1
