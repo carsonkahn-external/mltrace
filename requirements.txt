@@ -25,4 +25,4 @@ smmap==4.0.0
 SQLAlchemy==1.4.3
 threadpoolctl==2.1.0
 toml==0.10.2
-Werkzeug==1.0.1
+Werkzeug==2.2.3
